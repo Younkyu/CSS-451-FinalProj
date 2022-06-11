@@ -1,5 +1,6 @@
 # CSS-451-FinalProj
 Crane-controlled Tic-Tac-Toe
+Link to WebGL Gameplay: https://icmabad.github.io/cranetictactoe/
 
 ## Objective
 As the last project in our learning process, we will combine everything we have learned and build a (hopefully) useful application. Here are the requirements:
