@@ -1,5 +1,5 @@
 # CSS-451-FinalProj
-Crane-controlled Tic-Tac-Toe
+Crane-controlled Tic-Tac-Toe.
 Link to WebGL Gameplay: https://icmabad.github.io/cranetictactoe/
 
 ## Objective
